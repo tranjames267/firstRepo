@@ -1,0 +1,11 @@
+Setting up a git hub
+
+-download a repo
+git clone (url)
+
+-after making changes
+git add (all desired file names separated by spaces)
+
+git commit -m "my commit message"
+
+git push
